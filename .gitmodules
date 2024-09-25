@@ -1,4 +1,4 @@
 [submodule "africast"]
 	path = africast
-	url = git@github.com:Forecasting-for-Social-Good/workshop-f4sg-africa.git
+	url = git@github.com:Forecasting-for-Social-Good/workshop-f4sg-africast.git
 	branch = gh-pages
